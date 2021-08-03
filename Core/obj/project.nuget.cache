@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "E4yu5ZEfq/gEA9I9UfQqWP7nRnCKn8xy4sxK0A3eCgZ8Xl2ktxbA1jUS3YIisIBDCW8KjxU+kY80ZsFp1XK1iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samil.akpinar\\Desktop\\Pratikler\\LayeredArchitectureProject\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samil.akpinar\\.nuget\\packages\\postsharp\\4.2.17\\postsharp.4.2.17.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'PostSharp 4.2.17' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "PostSharp",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

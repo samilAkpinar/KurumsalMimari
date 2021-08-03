@@ -1,0 +1,17 @@
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.DataAccess\bin\Debug\net5.0\LayeredArchitecture.DataAccess.deps.json
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.DataAccess\bin\Debug\net5.0\LayeredArchitecture.DataAccess.dll
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.DataAccess\bin\Debug\net5.0\ref\LayeredArchitecture.DataAccess.dll
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.DataAccess\bin\Debug\net5.0\LayeredArchitecture.DataAccess.pdb
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.DataAccess\bin\Debug\net5.0\Core.dll
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.DataAccess\bin\Debug\net5.0\LayeredArchitecture.Entities.dll
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.DataAccess\bin\Debug\net5.0\LayeredArchitecture.Entities.pdb
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.DataAccess\bin\Debug\net5.0\Core.pdb
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.DataAccess\obj\Debug\net5.0\LayeredArchitecture.DataAccess.csproj.AssemblyReference.cache
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.DataAccess\obj\Debug\net5.0\LayeredArchitecture.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.DataAccess\obj\Debug\net5.0\LayeredArchitecture.DataAccess.AssemblyInfoInputs.cache
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.DataAccess\obj\Debug\net5.0\LayeredArchitecture.DataAccess.AssemblyInfo.cs
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.DataAccess\obj\Debug\net5.0\LayeredArchitecture.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.DataAccess\obj\Debug\net5.0\LayeredArchitecture.DataAccess.csproj.CopyComplete
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.DataAccess\obj\Debug\net5.0\LayeredArchitecture.DataAccess.dll
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.DataAccess\obj\Debug\net5.0\ref\LayeredArchitecture.DataAccess.dll
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.DataAccess\obj\Debug\net5.0\LayeredArchitecture.DataAccess.pdb

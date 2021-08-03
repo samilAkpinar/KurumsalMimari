@@ -1,0 +1,7 @@
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.ConsoleUI\obj\Debug\LayeredArchitecture.ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.ConsoleUI\obj\Debug\LayeredArchitecture.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.ConsoleUI\bin\Debug\LayeredArchitecture.ConsoleUI.exe.config
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.ConsoleUI\bin\Debug\LayeredArchitecture.ConsoleUI.exe
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.ConsoleUI\bin\Debug\LayeredArchitecture.ConsoleUI.pdb
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.ConsoleUI\obj\Debug\LayeredArchitecture.ConsoleUI.exe
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.ConsoleUI\obj\Debug\LayeredArchitecture.ConsoleUI.pdb

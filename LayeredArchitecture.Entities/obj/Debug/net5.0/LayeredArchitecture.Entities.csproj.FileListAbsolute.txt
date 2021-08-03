@@ -1,0 +1,15 @@
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.Entities\bin\Debug\net5.0\LayeredArchitecture.Entities.deps.json
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.Entities\bin\Debug\net5.0\LayeredArchitecture.Entities.dll
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.Entities\bin\Debug\net5.0\ref\LayeredArchitecture.Entities.dll
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.Entities\bin\Debug\net5.0\LayeredArchitecture.Entities.pdb
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.Entities\bin\Debug\net5.0\Core.dll
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.Entities\bin\Debug\net5.0\Core.pdb
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.Entities\obj\Debug\net5.0\LayeredArchitecture.Entities.csproj.AssemblyReference.cache
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.Entities\obj\Debug\net5.0\LayeredArchitecture.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.Entities\obj\Debug\net5.0\LayeredArchitecture.Entities.AssemblyInfoInputs.cache
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.Entities\obj\Debug\net5.0\LayeredArchitecture.Entities.AssemblyInfo.cs
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.Entities\obj\Debug\net5.0\LayeredArchitecture.Entities.csproj.CoreCompileInputs.cache
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.Entities\obj\Debug\net5.0\LayeredArchitecture.Entities.csproj.CopyComplete
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.Entities\obj\Debug\net5.0\LayeredArchitecture.Entities.dll
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.Entities\obj\Debug\net5.0\ref\LayeredArchitecture.Entities.dll
+C:\Users\samil.akpinar\Desktop\Pratikler\LayeredArchitectureProject\LayeredArchitecture.Entities\obj\Debug\net5.0\LayeredArchitecture.Entities.pdb

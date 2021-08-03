@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "WXuiCJu26lh+hpCMtp455m0p5A1H7EGuXHxdDf+OhH+aMH95krSZIjRYPLrzBfttC3/htA5O76cxc81r8M8p4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samil.akpinar\\Desktop\\Pratikler\\LayeredArchitectureProject\\WebAPİ\\WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samil.akpinar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\samil.akpinar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\samil.akpinar\\.nuget\\packages\\postsharp\\4.2.17\\postsharp.4.2.17.nupkg.sha512",
+    "C:\\Users\\samil.akpinar\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\samil.akpinar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\samil.akpinar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\samil.akpinar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'PostSharp 4.2.17' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "PostSharp",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
